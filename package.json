@@ -1,0 +1,20 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadibdev/Testing-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadibdev/Testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/jadibdev/Testing-with-jest#readme"
+}
